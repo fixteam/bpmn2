@@ -18,7 +18,7 @@
 
 <plugin>
 
-   <extension point="org.eclipse.ui.newWizards">
+   <!--<extension point="org.eclipse.ui.newWizards">
       <category
             id="org.eclipse.bpmn2.wizardCategory"
             name="%_UI_Wizard_category"/>
@@ -32,6 +32,7 @@
          <selection class="org.eclipse.core.resources.IResource"/>
       </wizard>
    </extension>
+   -->
 
    <extension point="org.eclipse.ui.editors">
       <editor
